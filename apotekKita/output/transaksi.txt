@@ -1,0 +1,36 @@
+====================================================
+TRANSAKSI 1
+BILL# 5221
+PrintDate=28/09/2026
+PrintTime=21:21:11
+Outlet=Central Park
+Paracetamol 500mg 5x - Rp.25.000
+Ibuprofen 400mg 5x - Rp.35.000
+Salep Luka 5x - Rp.50.000
+Jumlah obat=15
+Total=Rp.110.000
+MetodeBayar=Tunai
+====================================================
+====================================================
+TRANSAKSI 2
+BILL# 6414
+PrintDate=28/09/2026
+PrintTime=21:22:03
+Outlet=Central Park
+Vitamin C 5x - Rp.40.000
+Jumlah obat=5
+Total=Rp.40.000
+MetodeBayar=QRIS
+====================================================
+====================================================
+TRANSAKSI 3
+BILL# 7512
+PrintDate=28/09/2026
+PrintTime=21:34:15
+Outlet=Central Park
+Ibuprofen 400mg 5x - Rp.35.000
+Minyak Kayu Putih 5x - Rp.75.000
+Jumlah obat=10
+Total=Rp.110.000
+MetodeBayar=QRIS
+====================================================
