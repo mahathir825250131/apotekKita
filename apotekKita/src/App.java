@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
 
 public class App {
 
-//format harga biar lebih rapih
+//format harga
 public static String formatHarga(float harga) {
 return String.format(java.util.Locale.US, "%,.0f", harga).replace(",", ".");//misal dari 10000.0 jadi 10.000
 }
